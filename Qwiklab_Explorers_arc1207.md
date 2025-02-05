@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Arcade-Hero-Building-Blocks-Firestore-I-arc1206/refs/heads/main/qwiklab_explorers_arc1206.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Arcade-Hero-Building-Blocks-Artifact-Registry-I-arc1207/refs/heads/main/qwiklab_explorers_arc1207.sh
 
-sudo chmod +x qwiklab_explorers_arc1206.sh
+sudo chmod +x qwiklab_explorers_arc1207.sh
 
-./qwiklab_explorers_arc1206.sh
+./qwiklab_explorers_arc1207.sh
 ```
 
 ---
